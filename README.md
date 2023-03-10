@@ -1,5 +1,6 @@
 # console_sql_logs_settings
-```LOGGING = {
+```
+LOGGING = {
     'version': 1,
     'filters': {
         'require_debug_true': {
@@ -19,4 +20,5 @@
             'handlers': ['console'],
         }
     }
-}```
+}
+```
